@@ -1,2 +1,6 @@
 # yaml-language-server: $schema=../../schema.json
 # 在编写 initvar 之前, 请先保证终端有在运行 `pnpm watch`, 这会生成 schema.json 用于检验 initvar 是否有效
+<<<<<<< HEAD
+=======
+{}
+>>>>>>> f8b20765c5ce38a1e065c2a84b9882d8fac75f97
